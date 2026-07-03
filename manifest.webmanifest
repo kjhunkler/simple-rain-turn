@@ -1,0 +1,18 @@
+{
+  "name": "SimpleRain",
+  "short_name": "SimpleRain",
+  "description": "A single-game SimpleRain peer-to-peer pond game.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1b26",
+  "theme_color": "#0c1b26",
+  "icons": [
+    {
+      "src": "icons/lotus.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

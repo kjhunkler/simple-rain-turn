@@ -1,0 +1,73 @@
+{
+  "label": "baseline",
+  "timestamp": "2026-07-02T20:21:06.384Z",
+  "node": "v24.18.0",
+  "scenario": {
+    "cssSize": "390x740",
+    "dpr": 2,
+    "placedTiles": 25,
+    "blossoms": 4,
+    "warmupFrames": 120,
+    "measuredFrames": 600,
+    "simulatedSeconds": 10
+  },
+  "frameLoop": {
+    "framesExecuted": 600,
+    "wallMsTotal": 439.7,
+    "wallMsPerFrame": 0.733,
+    "broadcastsDuringMeasure": 4
+  },
+  "gamePerfLog": {
+    "fps": 60,
+    "drawMsPerFrame": 0.64,
+    "effectsMsPerFrame": 0.09,
+    "layoutMsPerFrame": 0.02,
+    "snapshotMsPerSnapshot": 0.01,
+    "snapshotsPerSecond": 0.4,
+    "remotePeers": 1
+  },
+  "allPerfLogs": [
+    {
+      "fps": 60,
+      "drawMsPerFrame": 0.64,
+      "effectsMsPerFrame": 0.09,
+      "layoutMsPerFrame": 0.02,
+      "snapshotMsPerSnapshot": 0.01,
+      "snapshotsPerSecond": 0.4,
+      "remotePeers": 1
+    }
+  ],
+  "snapshot": {
+    "buildMsPerSnapshot": 0.0005,
+    "jsonStringifyMsPerSnapshot": 0.0084,
+    "jsonBytes": 3819
+  },
+  "canvasOpsPerFrame": {
+    "arc": 1161.05,
+    "arcTo": 428,
+    "beginPath": 4638.83,
+    "bezierCurveTo": 96,
+    "clearRect": 1,
+    "clip": 155,
+    "closePath": 148.76,
+    "createLinearGradient": 3,
+    "createRadialGradient": 28,
+    "ellipse": 1142.9,
+    "fill": 3184.14,
+    "fillRect": 3,
+    "fillText": 28,
+    "getBoundingClientRect": 1,
+    "lineTo": 1581.76,
+    "moveTo": 2251.46,
+    "quadraticCurveTo": 1870.91,
+    "rect": 104,
+    "restore": 2291.76,
+    "rotate": 2106.44,
+    "save": 2291.76,
+    "scale": 1,
+    "setTransform": 1,
+    "shadowBlurSet": 1,
+    "stroke": 3293.26,
+    "translate": 2119.35
+  }
+}
